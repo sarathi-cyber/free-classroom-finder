@@ -122,3 +122,4 @@ The frontend now also includes:
 - The map and the original natural-language search/results are part of the same application and deployment.
 
 The map is a visual/schematic building representation, not a claim about the college's exact architectural floor plan. Timetable availability remains a timetable-derived signal, not a booking or guarantee of physical access.
+# free-classroom-finder
