@@ -1,0 +1,72 @@
+{
+  "107": {
+    "floor": null,
+    "ac": null,
+    "capacity": null
+  },
+  "108": {
+    "floor": null,
+    "ac": null,
+    "capacity": null
+  },
+  "211": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "225": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "227": {
+    "floor": null,
+    "ac": false,
+    "capacity": null
+  },
+  "309": {
+    "floor": null,
+    "ac": null,
+    "capacity": null
+  },
+  "401": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "411": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "416": {
+    "floor": null,
+    "ac": false,
+    "capacity": null
+  },
+  "518": {
+    "floor": null,
+    "ac": false,
+    "capacity": null
+  },
+  "519": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "602": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  },
+  "625": {
+    "floor": null,
+    "ac": false,
+    "capacity": null
+  },
+  "TB106": {
+    "floor": null,
+    "ac": true,
+    "capacity": null
+  }
+}

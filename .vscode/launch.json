@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Run Roomwise Dynamic",
+      "program": "${workspaceFolder}/server.mjs",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PORT": "3000",
+        "HOST": "127.0.0.1"
+      },
+      "console": "integratedTerminal"
+    }
+  ]
+}

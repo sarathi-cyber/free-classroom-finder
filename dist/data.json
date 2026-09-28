@@ -1,0 +1,2861 @@
+{
+  "rooms": [
+    {
+      "id": "107",
+      "name": "IST 107",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "lab",
+      "sections": [],
+      "coverage": "partial"
+    },
+    {
+      "id": "108",
+      "name": "IST 108",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "lab",
+      "sections": [],
+      "coverage": "partial"
+    },
+    {
+      "id": "211",
+      "name": "IST 211",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "III BME"
+      ],
+      "coverage": "AN",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "225",
+      "name": "IST 225",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "IV ECE A"
+      ],
+      "coverage": "full",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "227",
+      "name": "IST 227",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "IV ECE B"
+      ],
+      "coverage": "full",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "309",
+      "name": "IST 309",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "lab",
+      "sections": [],
+      "coverage": "partial"
+    },
+    {
+      "id": "401",
+      "name": "IST 401",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [],
+      "coverage": "partial",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "411",
+      "name": "IST 411",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "II ECE DS B"
+      ],
+      "coverage": "AN",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "416",
+      "name": "IST 416",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "II ECE DS A"
+      ],
+      "coverage": "FN",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "518",
+      "name": "IST 518",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "III ECE A",
+        "III ECE B"
+      ],
+      "coverage": "full",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "519",
+      "name": "IST 519",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "III ECE DS"
+      ],
+      "coverage": "FN",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "602",
+      "name": "IST 602",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [
+        "II BME"
+      ],
+      "coverage": "FN",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "625",
+      "name": "IST 625",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [],
+      "coverage": "partial",
+      "capacityRange": "120–300 (estimated)"
+    },
+    {
+      "id": "TB106",
+      "name": "TB 106",
+      "floor": null,
+      "ac": null,
+      "capacity": null,
+      "type": "classroom",
+      "sections": [],
+      "coverage": "partial",
+      "capacityRange": "120–300 (estimated)"
+    }
+  ],
+  "events": [
+    {
+      "room": "225",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE A",
+      "label": "C",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE A",
+      "label": "A",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE A",
+      "label": "D",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE A",
+      "label": "C",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE A",
+      "label": "D",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE A",
+      "label": "B",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE A",
+      "label": "F",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE A",
+      "label": "B",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE A",
+      "label": "LAB",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE A",
+      "label": "E",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 3,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE A",
+      "label": "F",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE A",
+      "label": "F",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE A",
+      "label": "A",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE A",
+      "label": "E",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE A",
+      "label": "B",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE A",
+      "label": "C",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE A",
+      "label": "A",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE A",
+      "label": "D",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "225",
+      "day": 5,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE A",
+      "label": "E",
+      "source": "IV ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE B",
+      "label": "C",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE B",
+      "label": "A",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE B",
+      "label": "E",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE B",
+      "label": "F",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE B",
+      "label": "C",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE B",
+      "label": "E",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE B",
+      "label": "F",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE B",
+      "label": "B",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE B",
+      "label": "C",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE B",
+      "label": "D",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE B",
+      "label": "A",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 3,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE B",
+      "label": "B",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE B",
+      "label": "D",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE B",
+      "label": "B",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE B",
+      "label": "LAB",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "IV ECE B",
+      "label": "A",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "IV ECE B",
+      "label": "E",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "IV ECE B",
+      "label": "D",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "227",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "IV ECE B",
+      "label": "F",
+      "source": "IV ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE A",
+      "label": "E",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE A",
+      "label": "B",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE A",
+      "label": "B",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE A",
+      "label": "A",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE A",
+      "label": "G",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE A",
+      "label": "G",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE A",
+      "label": "H",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE A",
+      "label": "D",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE A",
+      "label": "B",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE A",
+      "label": "B-Proj",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE A",
+      "label": "G",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE A",
+      "label": "C",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE A",
+      "label": "A",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE A",
+      "label": "D",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE A",
+      "label": "F",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE A",
+      "label": "A",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE A",
+      "label": "E",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE A",
+      "label": "C",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE A",
+      "label": "F",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE A",
+      "label": "D",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE A",
+      "label": "A",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE A",
+      "label": "E",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE A",
+      "label": "C",
+      "source": "III ECE A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE A",
+      "label": "LAB",
+      "source": "III ECE A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE B",
+      "label": "E",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE B",
+      "label": "B",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE B",
+      "label": "A",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 1,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE B",
+      "label": "D",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "G",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE B",
+      "label": "G",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE B",
+      "label": "F",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE B",
+      "label": "B",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE B",
+      "label": "D",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 2,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE B",
+      "label": "C",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "G",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE B",
+      "label": "B-Proj",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE B",
+      "label": "B",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE B",
+      "label": "A",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE B",
+      "label": "H",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE B",
+      "label": "LAB",
+      "source": "III ECE B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE B",
+      "label": "A",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE B",
+      "label": "C",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE B",
+      "label": "E",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 4,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE B",
+      "label": "F",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE B",
+      "label": "C",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE B",
+      "label": "A",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE B",
+      "label": "E",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "518",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE B",
+      "label": "D",
+      "source": "III ECE B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE DS",
+      "label": "E",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE DS",
+      "label": "B",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE DS",
+      "label": "C",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE DS",
+      "label": "A",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE DS",
+      "label": "C",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE DS",
+      "label": "B",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE DS",
+      "label": "D",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE DS",
+      "label": "F",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "519",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE DS",
+      "label": "H",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE DS",
+      "label": "B",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE DS",
+      "label": "A",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 3,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE DS",
+      "label": "C",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE DS",
+      "label": "G",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE DS",
+      "label": "G",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE DS",
+      "label": "A",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE DS",
+      "label": "D",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE DS",
+      "label": "E",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE DS",
+      "label": "F",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "III ECE DS",
+      "label": "D",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "III ECE DS",
+      "label": "A",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "III ECE DS",
+      "label": "E",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "519",
+      "day": 5,
+      "start": 700,
+      "end": 750,
+      "section": "III ECE DS",
+      "label": "B-Proj",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "III ECE DS",
+      "label": "G",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "III ECE DS",
+      "label": "G",
+      "source": "III ECE DS.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "108",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "III ECE DS",
+      "label": "LAB",
+      "source": "III ECE DS.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "625",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "III BME",
+      "label": "G",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "III BME",
+      "label": "G",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "III BME",
+      "label": "MPMC LAB",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "III BME",
+      "label": "MPMC LAB",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "III BME",
+      "label": "E",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "III BME",
+      "label": "B",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 1,
+      "start": 910,
+      "end": 960,
+      "section": "III BME",
+      "label": "F",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 1,
+      "start": 960,
+      "end": 1010,
+      "section": "III BME",
+      "label": "H",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "III BME",
+      "label": "BIO DSP LAB",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "III BME",
+      "label": "BIO DSP LAB",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "625",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "III BME",
+      "label": "G",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "III BME",
+      "label": "C",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "III BME",
+      "label": "D",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 2,
+      "start": 910,
+      "end": 960,
+      "section": "III BME",
+      "label": "A",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 2,
+      "start": 960,
+      "end": 1010,
+      "section": "III BME",
+      "label": "B",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 3,
+      "start": 800,
+      "end": 850,
+      "section": "III BME",
+      "label": "C",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 3,
+      "start": 850,
+      "end": 900,
+      "section": "III BME",
+      "label": "A",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "III BME",
+      "label": "F",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "III BME",
+      "label": "D",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "III BME",
+      "label": "I",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 4,
+      "start": 800,
+      "end": 850,
+      "section": "III BME",
+      "label": "A",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 4,
+      "start": 850,
+      "end": 900,
+      "section": "III BME",
+      "label": "C",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 4,
+      "start": 910,
+      "end": 960,
+      "section": "III BME",
+      "label": "E",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 4,
+      "start": 960,
+      "end": 1010,
+      "section": "III BME",
+      "label": "B",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "108",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "III BME",
+      "label": "I",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "III BME",
+      "label": "F",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "III BME",
+      "label": "A",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "III BME",
+      "label": "D",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "211",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "III BME",
+      "label": "E",
+      "source": "III BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "II BME",
+      "label": "E",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "II BME",
+      "label": "C",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "II BME",
+      "label": "I",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "II BME",
+      "label": "I",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "602",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "II BME",
+      "label": "C",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "II BME",
+      "label": "E",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "II BME",
+      "label": "B",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "II BME",
+      "label": "A",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "II BME",
+      "label": "H",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "II BME",
+      "label": "H",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "II BME",
+      "label": "B",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "II BME",
+      "label": "D",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "II BME",
+      "label": "A",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 3,
+      "start": 800,
+      "end": 850,
+      "section": "II BME",
+      "label": "H",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 3,
+      "start": 850,
+      "end": 900,
+      "section": "II BME",
+      "label": "G",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "II BME",
+      "label": "A",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "II BME",
+      "label": "E",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "II BME",
+      "label": "B",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "II BME",
+      "label": "D",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "107",
+      "day": 4,
+      "start": 910,
+      "end": 960,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 910,
+      "end": 960,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 4,
+      "start": 960,
+      "end": 1010,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 960,
+      "end": 1010,
+      "section": "II BME",
+      "label": "DLMS/EEC",
+      "source": "II BME.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "II BME",
+      "label": "F",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "II BME",
+      "label": "A",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "II BME",
+      "label": "C",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 700,
+      "end": 750,
+      "section": "II BME",
+      "label": "D",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "II BME",
+      "label": "G",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "II BME",
+      "label": "G",
+      "source": "II BME.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 1,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS A",
+      "label": "E",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 1,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS A",
+      "label": "A",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS A",
+      "label": "I",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS A",
+      "label": "I",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS A",
+      "label": "G",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS A",
+      "label": "G",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "416",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS A",
+      "label": "C",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS A",
+      "label": "A",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 2,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS A",
+      "label": "E",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 2,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS A",
+      "label": "D",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "602",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS A",
+      "label": "G",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 2,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS A",
+      "label": "H",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 2,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS A",
+      "label": "H",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS A",
+      "label": "A",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 3,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS A",
+      "label": "B",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 3,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS A",
+      "label": "C",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 3,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS A",
+      "label": "D",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 3,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS A",
+      "label": "H",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS A",
+      "label": "B",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS A",
+      "label": "C",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS A",
+      "label": "A",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS A",
+      "label": "F",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 4,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 4,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 4,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS A",
+      "label": "LAB",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "416",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS A",
+      "label": "D",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 5,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS A",
+      "label": "B",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 5,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS A",
+      "label": "E",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "416",
+      "day": 5,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS A",
+      "label": "C",
+      "source": "II ECE DS A.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 1,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "411",
+      "day": 1,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS B",
+      "label": "D",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 1,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS B",
+      "label": "B",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 1,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS B",
+      "label": "C",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 1,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS B",
+      "label": "I",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "309",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 2,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "309",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "107",
+      "day": 2,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS B",
+      "label": "LAB",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": true
+    },
+    {
+      "room": "411",
+      "day": 2,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS B",
+      "label": "C",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 2,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS B",
+      "label": "D",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 2,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS B",
+      "label": "E",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 2,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS B",
+      "label": "A",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "401",
+      "day": 3,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS B",
+      "label": "G",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 3,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS B",
+      "label": "I",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 3,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS B",
+      "label": "E",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 3,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS B",
+      "label": "A",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 3,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS B",
+      "label": "D",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "401",
+      "day": 4,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS B",
+      "label": "G",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "401",
+      "day": 4,
+      "start": 590,
+      "end": 640,
+      "section": "II ECE DS B",
+      "label": "G",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 4,
+      "start": 650,
+      "end": 700,
+      "section": "II ECE DS B",
+      "label": "H",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 4,
+      "start": 700,
+      "end": 750,
+      "section": "II ECE DS B",
+      "label": "H",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 4,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS B",
+      "label": "A",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 4,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS B",
+      "label": "C",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 4,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS B",
+      "label": "B",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 4,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS B",
+      "label": "E",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "TB106",
+      "day": 5,
+      "start": 540,
+      "end": 590,
+      "section": "II ECE DS B",
+      "label": "H",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 5,
+      "start": 800,
+      "end": 850,
+      "section": "II ECE DS B",
+      "label": "F",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 5,
+      "start": 850,
+      "end": 900,
+      "section": "II ECE DS B",
+      "label": "A",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 5,
+      "start": 910,
+      "end": 960,
+      "section": "II ECE DS B",
+      "label": "B",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    },
+    {
+      "room": "411",
+      "day": 5,
+      "start": 960,
+      "end": 1010,
+      "section": "II ECE DS B",
+      "label": "C",
+      "source": "II ECE DS B.pdf",
+      "ambiguous": false
+    }
+  ],
+  "sources": [
+    {
+      "name": "IV ECE A.pdf",
+      "section": "IV ECE A",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "IV ECE B.pdf",
+      "section": "IV ECE B",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "III ECE A.pdf",
+      "section": "III ECE A",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "III ECE B.pdf",
+      "section": "III ECE B",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "III ECE DS.pdf",
+      "section": "III ECE DS",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "III BME.pdf",
+      "section": "III BME",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "II BME.pdf",
+      "section": "II BME",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "II ECE DS A.pdf",
+      "section": "II ECE DS A",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "II ECE DS B.pdf",
+      "section": "II ECE DS B",
+      "year": "2026–27",
+      "active": true
+    },
+    {
+      "name": "I year Time Table SEEE.pdf",
+      "section": "First-year timetables · 4 pages",
+      "year": "2024–25",
+      "active": false
+    }
+  ],
+  "notes": [
+    "Recurring weekday timetable only. Semester dates, holidays, cancellations, room access and other departments are not supplied.",
+    "Rooms shared by morning and afternoon sections are checked together. Split-lab entries block both listed labs conservatively.",
+    "Unqualified room references use the IST building except explicit TB 106. Confirm these room assignments with the college."
+  ]
+}

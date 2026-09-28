@@ -1,0 +1,15 @@
+{
+  "name": "roomwise-dynamic",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Dynamic full-stack Roomwise classroom finder for SRM Tiruchirappalli.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node test-engine.mjs && node test-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
